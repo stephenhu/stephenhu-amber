@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  import indexbar2
+  div.blue.s.box
+    a[href=Article.URL]
+      h3 #{Article.Title}
+    date #{Article.Day}
+    #{Article.Summary}

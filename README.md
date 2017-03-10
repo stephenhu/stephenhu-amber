@@ -1,2 +1,2 @@
-# stephenhu-amber
-Amber templates for stephenhu.github.com
+# stephenhu-sources
+Amber and markdown files for stephenhu.github.com

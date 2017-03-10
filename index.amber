@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  import indexbar1
+  each $article in Articles
+    div.blue.s.box
+      a[href=$article.URL]
+        h3 #{$article.Title}
+      date #{$article.Day}
+      #{$article.Summary}
