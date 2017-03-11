@@ -2,8 +2,11 @@ extends layout
 
 block content
   import indexbar2
-  div.blue.s.box
-    a[href=Article.URL]
-      h3 #{Article.Title}
-    date #{Article.Day}
-    #{Article.Summary}
+  div.black.xl.box
+    div.container
+      div.row
+        div.col-lg-12.col-md-12.col-sm-12.col-xs-12
+          a[href=URL]
+            h1 #{Title}
+          date #{Date}
+          div #{Summary}

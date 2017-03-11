@@ -1,13 +1,13 @@
 div.green.m.box
-  a[href="#"]
+  a[href="https://stephenhu.github.io"]
     h2 STEPHENHU
   h4 Innovation, Creativity, Uniqueness
   h5 Copyright &copy; 2017
   a[href="https://github.com/stephenhu"]
-    span.fa.fa-github
+    span.fa.fa-github.fa-3x
   a[href="https://cn.linkedin.com/in/hustephen"]
-    span.fa.fa-linkedin
+    span.fa.fa-linkedin.fa-3x
   a[href="mailto:stephen@madsportslab.com"]
-    span.fa.fa-envelope
+    span.fa.fa-envelope.fa-3x
   a[href="https://twitter.com/madsportslab"]
-    span.fa.fa-twitter
+    span.fa.fa-twitter.fa-3x
