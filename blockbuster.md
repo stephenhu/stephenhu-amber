@@ -1,0 +1,10 @@
+# Blockbuster Year of Trades!
+
+#### Feb 21, 2017
+        
+Trades have started to heat up as the 2017 NBA deadline fast approaches, and this year is turning out to be a real blockbuster of a year!  Earlier in the season, there were ho-hum, small trades like Tony Snell for Michael Carter-Williams, Mike Dunleavy and Mo Williams for Kyle Korver, Mason Plumlee to Denver for Jusuf Nurkic, followed by Miles Plumlee to Charlotte for Spencer Hawes and Roy Hibbert.  Even bigger news was Serge Ibaka to the Toronto Raptors for Terrence Ross which puts Toronto in a solid position heading into the playoffs, but nothing of a blockbuster trade yet until the biggest trade of the season was announced right before the All-Star game, Demarcus Cousins and Omri Casspi to be traded to New Orleans for Tyreke Evans, Buddy Hield, and Langston Galloway.
+        
+This certainly adds depth to the Pelicans which can now boast a triple threat with Anthony Davis, Jrue Holiday, and Demarcus Cousins, but there are too many similarities between the two bigs, Cousins and Davis.  What the Pelicans really lack is an effective wing player which Cousins does not provide, and in this age of small-ball, this is more of a move in the opposite direction.  What Cousins does provide for the Pelicans is an increased chance to make the playoffs and allows Davis to shift to his natural position of power forward.  This trade does not, however, make the Pelicans a championship team, certainly they're a lot closer, but the main risk with this trade is that Cousin's contract ends after this season so there's no guarantee he'll resign.
+        
+Buddy Hield is a good shooter, something that compliments Davis' game, and he is still young with a lottery contract, but seems the Pelicans front office wants to push for the playoffs this season rather than the next.  The Kings essentially moved into full rebuild mode and rid one of the largest contracts on its roster and its most boisterous players of all time.
+  
