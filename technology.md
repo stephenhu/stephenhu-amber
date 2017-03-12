@@ -1,3 +1,7 @@
+# Technology and China
+
+#### May 28, 2014
+
 you've all probably played or seen the game civilization, the game where you start as a primitive
 culture and then through major technological and philosophical advancements, start to overtake your neighbors
 as you steam roll in tanks and democracy against their archers and feudalism.  and history itself has shown

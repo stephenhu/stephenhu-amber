@@ -1,3 +1,7 @@
+# Welcome
+
+#### Jan 24, 2014
+
 welcome, this is my very first blog post here!  i've been blogging
 for a fairly long time, my very first blog was written in pure html
 back in my college days (circa '96).  i still remember my first text

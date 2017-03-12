@@ -1,3 +1,7 @@
+# Mobile First
+
+#### May 28, 2014
+
 a lot of people in the high-tech industry have been talking about mobile
 first for a long time, the meaning behind this is quite literally to create mobile
 apps before you go with anything else, just think what the world would be like if

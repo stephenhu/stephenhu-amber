@@ -1,3 +1,7 @@
+# No More Mac Pros
+
+#### Feb 11, 2014
+
 the mac pro is the desktop/workstation class offering from apple which actually featured
 the very first intel processor ever for apple, all prior workstations (and laptops)
 featured the powerpc chip from motorola, this was a huge announcement and shift

@@ -1,3 +1,7 @@
+# Playstation 4 and the New Gaming Industry
+
+#### Feb 6, 2014
+
 ![Playstation 4](http://cdn.us.playstation.com/pscomauth/groups/public/documents/webasset/ps4-hrdware-large1.jpg)
 
 playstation 4 launched in mid-november of last year (2013), this is almost 20 years

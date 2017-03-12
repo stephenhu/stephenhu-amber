@@ -1,3 +1,7 @@
+# Email Best Practices
+
+#### May 28, 2014
+
 email is a 20 year old technology, though because of its simplicity and usefulness,
 has stayed pretty consistent and still highly used all these years.  but because
 it's simple, there have been many usage patterns or mores that have grown about

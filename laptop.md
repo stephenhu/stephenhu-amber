@@ -1,3 +1,7 @@
+# Ideal Laptop
+
+#### Jan 24, 2014
+
 i've been using macbooks for a very long time, my current one from work is
 a fully spec'd out macbook pro retina, 15" screen, 512 gb ssd, 16 gb ram,
 i7 quad core running at 2.7 ghz, a very well built piece of machinery from

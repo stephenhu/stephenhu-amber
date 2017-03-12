@@ -1,3 +1,7 @@
+# Jawbone Up
+
+#### Apr 20, 2014
+
 ![jawbone up](https://dyzup8v06s4q5.cloudfront.net/ver/static/images/marketing/health/up/colorizer/up-band-sprite@2x.v2.png)
 
 have been using the jawbone up lately, which is an activity tracker worn around your wrist.  jawbone is the company that brought stylish bluetooth ear pieces with equally stylish packaging and experience.  that ear piece had real state of the art technology like noise assassin or noise cancellation and just fit better than any earpiece i've ever used.  jawbone is also the maker of the jambone bluetooth speaker which i also bought, which serves as an external speaker and microphone, great for those long conference calls.  the company hasn't gone public yet, but has a number of interesting personal hardware products.

@@ -22,7 +22,7 @@ date {
 }
 
 a {
-  color: #e60000;
+  color: #00c700;
 }
 
 a, a:link, a:hover, a:visited {
@@ -98,6 +98,10 @@ p {
   width: 300px;
 }
 
+.big {
+  font-size: 3em;
+}
+
 .white {
   background-color: #ffffff;
   color: #222222;
@@ -148,4 +152,9 @@ p {
   background-color: #222222;
 }
 
+/* bootstrap overrides */
 
+.navbar {
+  background-color: #0066CC;
+  opacity: .8;
+}

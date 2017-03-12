@@ -1,3 +1,7 @@
+# Gangsters as Leaders and Managers
+
+#### Feb 27, 2014
+
 ![Boardwalk Empire](http://upload.wikimedia.org/wikipedia/en/2/2d/Boardwalk_Empire_2010_Intertitle.png)
 
 i'm watching this hbo series called boardwalk empire which talks about the
